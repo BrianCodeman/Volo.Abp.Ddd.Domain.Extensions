@@ -1,0 +1,9 @@
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\bin\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.deps.json
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\bin\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.dll
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\bin\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.pdb
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.csproj.AssemblyReference.cache
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.AssemblyInfoInputs.cache
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.AssemblyInfo.cs
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.csproj.CoreCompileInputs.cache
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.dll
+D:\Develop\Caicai\Caicai.Construction\src\Volo.Abp.Ddd.Domain.Extensions\obj\Debug\netstandard2.0\Volo.Abp.Ddd.Domain.Extensions.pdb
